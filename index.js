@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["👾 Playing - Virus Pathway"];
 
 
 let currentIndex = 0;
