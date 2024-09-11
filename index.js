@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎮 PLAYING - As Truckers"];
+const statusMessages = ["🎮 PLAYING - As Truckers","🛡️ I work on the server"];
 
 
 let currentIndex = 0;
