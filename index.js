@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎮 PLAYING - As Truckers","🛡️ I work on the server"];
+const statusMessages = ["🎮 PLAYING - As Truckers","🛡️ As Truckers Discord Bot"];
 
 
 let currentIndex = 0;
