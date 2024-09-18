@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎮 PLAYING - As Truckers","🛡️ As Truckers Discord Bot"];
+const statusMessages = ["🛣️ Rhythm Of Road"];
 
 
 let currentIndex = 0;
